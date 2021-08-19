@@ -152,5 +152,3 @@ if max_value>0:
 
 else:
 	print("safe url")
-	
-print(max_value)
